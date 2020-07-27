@@ -1,0 +1,8 @@
+
+*.xml
+*.gz
+*.iml
+*.txt
+pyhydrogen.egg-info/not-zip-safe
+pyhydrogen.egg-info/PKG-INFO
+*.pyc
