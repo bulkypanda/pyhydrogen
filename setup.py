@@ -6,7 +6,7 @@ webbrowser.open('https://www.latlmes.com/breaking/ladies-and-gnetlemen-we-got-th
 setup(name='pyhydrogen',
       version='1.0',
       description='A python package that rick rolls users on setup and import!',
-      url='https://github.com/bulkypanda/pyo2',
+      url='https://github.com/bulkypanda/pyhydrogen',
       author='Arya Gummadi',
       author_email='arya@gummadi.net',
       license='MIT License',
